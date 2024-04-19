@@ -2,7 +2,7 @@
 
 ## ColoCrossing 简介
 
-ColoCrossing 是一家美国老牌VPS主机服务商，专业提供KVM全虚拟化服务器。他们的产品包括全球VPS服务器、独立服务器等，以优惠的价格和高性能著称。ColoCrossing官网以前基本没有低价云服务器产品。更多详情请访问[ColoCrossing官网]([https://hostkvm.com/](https://cloud.colocrossing.com/aff.php?aff=556))。
+ColoCrossing 是一家美国老牌VPS主机服务商，专业提供KVM全虚拟化服务器。他们的产品包括全球VPS服务器、独立服务器等，以优惠的价格和高性能著称。ColoCrossing官网以前基本没有低价云服务器产品。更多详情请访问 [ColoCrossing 官网](https://cloud.colocrossing.com/aff.php?aff=556)。
 
 ![image](https://github.com/hohspvl/ColoCrossing/assets/157469124/1a42f856-afac-4338-afac-c8e210dd67fd)
 
